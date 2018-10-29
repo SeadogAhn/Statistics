@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="300" height="300" version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+<desc>Conjuntos: subconjunto A em B</desc>
+
+<rect x="0" y="0" width="300" height="300"
+  fill="white" stroke="black" />
+
+<circle cx="130" cy="150" r="120"
+  stroke="black" stroke-width="2" fill="rgb(210,223,240)"/>
+<text x="178" y="76" style="font-size: 18pt; font-weight: bold">
+B
+</text>
+
+<circle cx="110" cy="170" r="70"
+  stroke="black" stroke-width="2" fill="rgb(186,200,220)"/>
+<text x="142" y="149" style="font-size: 18pt; font-weight: bold">
+A
+</text>
+
+</svg>
