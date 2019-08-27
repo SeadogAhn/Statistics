@@ -1,2 +1,18 @@
-# StatisticsInPython
-Statistics in Python
+# Learning Statistics with Python for Data Scientist
+
+1. 통계학의 기본개념
+2. 연구조사와 자료
+3. 기술통계분석
+4. 확률이론
+5. 이산확률분포
+6. 연속확률분포와 정규분포
+7. 표본조사와 표본분포
+8. 단일 모집단의 추정
+9. 단일 모집단의 가설검정
+10. 두 모집단의 추론
+11. 모집단 분산의 추론
+12. 분산분석
+13. 상관분석
+14. 회귀분석
+15. 도수분석
+16. 비모수분석
