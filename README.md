@@ -2,6 +2,7 @@
 ## (Learning Statistics in Python for Data Scientist)
 
 [1. 통계학의 기본개념](LectureNote/01-LEC-통계학의%20기본개념.pdf)
+
 [2. 연구조사와 자료](LectureNote/02-LEC-연구조사와%20자료.pdf)
 [3. 기술통계분석](LectureNote/03-LEC-기술통계분석.pdf)
 [4. 확률이론](LectureNote/04-LEC-확률이론.pdf)
