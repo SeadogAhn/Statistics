@@ -1,5 +1,5 @@
-# 데이터과학자를 위한 파이썬으로 배우는 통계학
-## (Learning Statistics in Python for Data Scientist)
+# 데이터과학자를 위한 통계학
+## (Learning Statistics for Data Scientist)
 
 [1. 통계학의 기본개념](LectureNote/01-LEC-통계학의%20기본개념.pdf)<br>
 [2. 연구조사와 자료](LectureNote/02-LEC-연구조사와%20자료.pdf)<br>
